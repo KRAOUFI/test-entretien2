@@ -14,6 +14,7 @@ namespace TestEntretien
                 "aabccccc",
                 "ddflfccccc"
             };
+            
                     
         }
         public static void MergeIndexAndRemoveDuplicate()
